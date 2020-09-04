@@ -5,7 +5,7 @@ I use vscode **with** the eslint extension, **without** prettier extension
 
 Install it as a peer dependency
 ```
-yarn add eslint-prettier-no-headache -P
+yarn add eslint-config-prettierslint-no-headache -P
 ```
 
 vscode config:
